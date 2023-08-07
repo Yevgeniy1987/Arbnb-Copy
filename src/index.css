@@ -289,3 +289,17 @@ body {
   width: 70%;
   text-align: left;
 }
+.card {
+  font-size: 14px;
+}
+.card--img{
+  width: 30%;
+}
+.card--stats{
+  display: flex;
+  gap: 10px;
+}
+.star{
+  width: 14px;
+  height: 14px;
+}

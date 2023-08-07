@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Hero() {
   return (
-    <div className="hero--main main">
+    <section className="hero--main main">
       <img className="hero--img" src="../src/assets/Group-77.png" alt="" />
       <div className="hero--content main">
         <h1 className="title--main">Online Experiences</h1>
@@ -11,6 +11,6 @@ export default function Hero() {
           without leaving home.
         </p>
       </div>
-    </div>
+    </section>
   );
 }
